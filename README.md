@@ -2,4 +2,6 @@
 
 Mi primer repositorio
 
-I love fly fishing and trekking :mountain. 
+I love fly fishing and trekking :mountain: . 
+
+Escribo algo.
